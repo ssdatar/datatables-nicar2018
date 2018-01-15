@@ -2,16 +2,51 @@
 <html>
 <head>
   <title>My first interactive table</title>
-  <link rel="stylesheet" href="main.css">
-  <link rel="stylesheet" href="//cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css">
+  <link rel="stylesheet" type="text/css" href="lib/DataTables/datatables.min.css"/>
+  <link rel="stylesheet" href="main.css" />
 </head>
 <body>
   <h2>Look at this cool table</h2>
 
-  <script src="https://code.jquery.com/jquery-3.2.1.min.js"
-  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
-  crossorigin="anonymous"></script>
-  <script src="//cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
+  <table id="my-table">
+    <thead>
+      <tr>
+        <th class="NAME-cell">NAME</th>
+        <th class="VALUE-cell">VALUE</th>
+        <th class="COLOR-cell">COLOR</th>
+        <th class="DATE-cell">DATE</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="firstRow">
+        <td class="NAME-cell">Alan</td>
+        <td class="VALUE-cell">12</td>
+        <td class="COLOR-cell">blue</td>
+        <td class="DATE-cell">Sep. 25, 2009</td>
+      </tr>
+      <tr>
+        <td class="NAME-cell">Shan</td>
+        <td class="VALUE-cell">13</td>
+        <td class="COLOR-cell">green\tblue</td>
+        <td class="DATE-cell">Sep. 27, 2009</td>
+      </tr>
+      <tr>
+        <td class="NAME-cell">John</td>
+        <td class="VALUE-cell">45</td>
+        <td class="COLOR-cell">orange</td>
+        <td class="DATE-cell">Sep. 29, 2009</td>
+      </tr>
+      <tr class="lastRow">
+        <td class="NAME-cell">Minna</td>
+        <td class="VALUE-cell">27</td>
+        <td class="COLOR-cell">teal</td>
+        <td class="DATE-cell">Sep. 30, 2009</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <script src="lib/jquery.min.js"></script>
+  <script type="text/javascript" src="lib/DataTables/datatables.min.js"></script>
   <script src="script.js"></script>
 </body>
 </html>
