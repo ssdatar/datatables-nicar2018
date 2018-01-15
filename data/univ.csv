@@ -1,0 +1,828 @@
+name,term,university,gender
+Jonathan Dickinson,1747,Princeton University,M
+Aaron Burr Sr,1748–57,Princeton University,M
+Jonathan Edwards,1758,Princeton University,M
+Samuel Davies,1759–61,Princeton University,M
+Samuel Finley,1761–66,Princeton University,M
+John Witherspoon,1768–94,Princeton University,M
+Samuel S. Smith,1795–1812,Princeton University,M
+Ashbel Green,1812–22,Princeton University,M
+James Carnahan,1823–54,Princeton University,M
+John Maclean Jr,1854–68,Princeton University,M
+James McCosh,1868–88,Princeton University,M
+Francis L. Patton,1888–1902,Princeton University,M
+Woodrow Wilson,1902–10,Princeton University,M
+John G. Hibben,1912–32,Princeton University,M
+Harold W. Dodds,1933–57,Princeton University,M
+Robert F. Goheen,1957–72,Princeton University,M
+William G. Bowen,1972–88,Princeton University,M
+Harold T. Shapiro,1988–2001,Princeton University,M
+Shirley M. Tilghman,2001–13,Princeton University,F
+Christopher L. Eisgruber,2013–present,Princeton University,M
+Henry Dunster,1640–1654,Harvard University,M
+Charles Chauncy,1654–1672,Harvard University,M
+Leonard Hoar,1672–1675,Harvard University,M
+Urian Oakes,1680–1681,Harvard University,M
+John Rogers,1682–1684,Harvard University,M
+Increase Mather,1692–1701,Harvard University,M
+John Leverett,1708–1724,Harvard University,M
+Benjamin Wadsworth,1725–1737,Harvard University,M
+Edward Holyoke,1737–1769,Harvard University,M
+Samuel Locke,1770–1773,Harvard University,M
+Samuel Langdon,1774–1780,Harvard University,M
+Joseph Willard,1781–1804,Harvard University,M
+Samuel Webber,1806–1810,Harvard University,M
+John Thornton Kirkland,1810–1828,Harvard University,M
+Josiah Quincy,1829–1845,Harvard University,M
+Edward Everett,1846–1849,Harvard University,M
+Jared Sparks,1849–1853,Harvard University,M
+James Walker,1853–1860,Harvard University,M
+Cornelius Conway Felton,1860–1862,Harvard University,M
+Thomas Hill,1862–1868,Harvard University,M
+Charles William Eliot,1869–1909,Harvard University,M
+Abbott Lawrence Lowell,1909–1933,Harvard University,M
+James Bryant Conant,1933–1953,Harvard University,M
+Nathan Marsh Pusey,1953–1971,Harvard University,M
+Derek Curtis Bok,1971–1991,Harvard University,M
+Neil L. Rudenstine,1991–2001,Harvard University,M
+Lawrence H. Summers,2001-2006,Harvard University,M
+Drew Gilpin Faust,2007–present,Harvard University,M
+Abraham Pierson,1701–1707,Yale University,M
+Samuel Andrew,1707–1719,Yale University,M
+Timothy Cutler,1719–1722,Yale University,M
+Elisha Williams,1726–1739,Yale University,M
+Thomas Clap,1740–1766,Yale University,M
+Naphtali Daggett,1766–1777,Yale University,M
+Ezra Stiles,1778–1795,Yale University,M
+Timothy Dwight,1795–1817,Yale University,M
+Jeremiah Day,1817–1846,Yale University,M
+Theodore Dwight Woolsey,1846–1871,Yale University,M
+Noah Porter,1871–1886,Yale University,M
+Timothy Dwight,1886–1899,Yale University,M
+Arthur Twining Hadley,1899–1921,Yale University,M
+James Rowland Angell,1921–1937,Yale University,M
+Charles Seymour,1937–1950,Yale University,M
+Alfred Whitney Griswold,1950–1963,Yale University,M
+Kingman Brewster,1963–1977,Yale University,M
+Hanna Holborn Gray,1977–1978,Yale University,F
+Angelo Bartlett Giamatti,1978–1986,Yale University,M
+Benno Schmidt Jr,1986–1992,Yale University,M
+Howard Lamar,1992–1993,Yale University,M
+Richard C. Levin,1993–2013,Yale University,M
+George Rupp,1993-2002,Columbia University,M
+Michael I. Sovern,1980-1993,Columbia University,M
+William J. McGill,1970-1980,Columbia University,M
+Andrew W. Cordier,1969-1970,Columbia University,M
+Andrew W. Cordier,1968-1969,Columbia University,M
+Grayson Kirk,1953-1968,Columbia University,M
+Dwight D. Eisenhower,1948-1953,Columbia University,M
+Frank D. Fackenthal,1945-1948,Columbia University,M
+Nicholas Murray Butler,1902-1945,Columbia University,M
+Seth Low,1890-1901,Columbia University,M
+Frederick A.P. Barnard,1864-1889,Columbia University,M
+Charles King,1849-1864,Columbia University,M
+Nathaniel Fish Moore,1842-1849,Columbia University,M
+William A. Duer,1829-1842,Columbia University,M
+William Harris,1811-1829,Columbia University,M
+Benjamin Moore,1801-1811,Columbia University,M
+Charles H. Wharton,Duke University1801,Columbia University,M
+William Samuel Johnson,1787-1800,Columbia University,M
+Benjamin Moore,1775-1776,Columbia University,M
+Myles Cooper,1763-1775,Columbia University,M
+Samuel Johnson,1754-1763,Columbia University,M
+David Starr Jordan,1891-1913,Stanford University,M
+John Casper Branner,1913-1915,Stanford University,M
+Ray Lyman Wilbur,1916-1943,Stanford University,M
+Donald B. Tresidder,1943-1948,Stanford University,M
+John E. Wallace Sterling,1949-1968,Stanford University,M
+Kenneth S. Pitzer,1968-1970,Stanford University,M
+Richard W. Lyman,1970-1980,Stanford University,M
+Donald Kennedy,1980-1992,Stanford University,M
+Gerhard Casper,1992-2000,Stanford University,M
+John Hennessy,2000-2016,Stanford University,M
+Marc Tessier-Lavigne,2016-present,Stanford University,M
+William Rainey Harper,1891-1906,University of Chicago,M
+Harry Pratt Judson,1907-1923,University of Chicago,M
+Ernest DeWitt Burton,1923-1925,University of Chicago,M
+Max Mason,1925-1928,University of Chicago,M
+Robert Maynard Hutchins,1929-1951,University of Chicago,M
+Lawrence A. Kimpton,1951-1960,University of Chicago,M
+George W. Beadle,1961-1968,University of Chicago,M
+Edward H. Levi,1968-1975,University of Chicago,M
+John T. Wilson,1975-1978,University of Chicago,M
+Hanna Holborn Gray,1978-1993,University of Chicago,F
+Hugo Sonnenschein,1993-2000,University of Chicago,M
+Don Michael Randel,2000-2006,University of Chicago,M
+Robert J. Zimmer,2006-present,University of Chicago,M
+William Barton Rogers,1862–1870; 1879–1881,Massachusetts Institute of Technology,M
+John Daniel Runkle,1870–1878,Massachusetts Institute of Technology,M
+Francis Amasa Walker,1881–1897,Massachusetts Institute of Technology,M
+James Crafts,1897–1900,Massachusetts Institute of Technology,M
+Henry Smith Pritchett,1900–1907,Massachusetts Institute of Technology,M
+Arthur Amos Noyes,1907–1909,Massachusetts Institute of Technology,M
+Richard Cockburn Maclaurin,1909–1920,Massachusetts Institute of Technology,M
+Elihu Thomson,1920–1921;1922–1923,Massachusetts Institute of Technology,M
+Ernest Fox Nichols,1921–1922,Massachusetts Institute of Technology,M
+Samuel Wesley Stratton,1923–1930,Massachusetts Institute of Technology,M
+Karl Taylor Compton,1930–1948,Massachusetts Institute of Technology,M
+James Rhyne Killian,1948–1959,Massachusetts Institute of Technology,M
+Julius Adams Stratton,1959–1966,Massachusetts Institute of Technology,M
+Howard Wesley Johnson,1966–1971,Massachusetts Institute of Technology,M
+Jerome Wiesner,1971–1980,Massachusetts Institute of Technology,M
+Paul Edward Gray,1980–1990,Massachusetts Institute of Technology,M
+Charles Marstiller Vest,1990–2004,Massachusetts Institute of Technology,M
+Susan Hockfield,2004–2012,Massachusetts Institute of Technology,F
+Leo Rafael Reif,2012–present,Massachusetts Institute of Technology,M
+Brantley York,1838–1842,Duke University,M
+Braxton Craven,1842–1863,Duke University,M
+William Trigg Gannaway,1863–1865,Duke University,M
+Braxton Craven,1866–1882,Duke University,M
+Marquis Lafayette Wood,1883–1884,Duke University,M
+John Franklin Crowell,1887–1894,Duke University,M
+John Carlisle Kilgo,1894–1910,Duke University,M
+William Preston Few,1910–1940,Duke University,M
+Robert Lee Flowers,1941–1948,Duke University,M
+Arthur Hollis Edens,1949–1960,Duke University,M
+Julian Deryl Hart,1960–1963,Duke University,M
+Douglas Maitland Knight,1963–1969,Duke University,M
+Terry Sanford,1969–1985,Duke University,M
+H. Keith H. Brodie,1985–1993,Duke University,M
+Nannerl O. Keohane,1993–2004,Duke University,F
+Richard H. Brodhead,2004–Present,Duke University,M
+Thomas Sovereign Gates,1930-1944,University of Pennsylvania,M
+George William McClelland,1944-1948,University of Pennsylvania,M
+Harold Edward Stassen,1948-1953,University of Pennsylvania,M
+William Hagan DuBarry,1953-1953,University of Pennsylvania,M
+Gaylord Probasco Harnwell,1953-1970,University of Pennsylvania,M
+Martin Meyerson,1970-1981,University of Pennsylvania,M
+Francis Sheldon Hackney,1981-1993,University of Pennsylvania,M
+Claire Fagin,1993-1994,University of Pennsylvania,F
+Judith Seitz Rodin,1994-2004,University of Pennsylvania,F
+Amy Gutmann,2004-present,University of Pennsylvania,F
+Robert A. Millikan,1921–1946,California Institute of Technology,M
+Lee A. DuBridge,1946–1969,California Institute of Technology,M
+Harold Brown,1969–1977,California Institute of Technology,M
+Robert F. Christy,1977–1978,California Institute of Technology,M
+Marvin L. Goldberger,1978–1987,California Institute of Technology,M
+Thomas E. Everhart,1987–1997,California Institute of Technology,M
+David Baltimore,1997–2006,California Institute of Technology,M
+Jean-Lou Chameau,2006–2013,California Institute of Technology,M
+Edward M. Stolper,2013–2014,California Institute of Technology,M
+Thomas F. Rosenbaum,2014–present,California Institute of Technology,M
+Daniel Coit Gilman,1875–1901,Johns Hopkins University,M
+Ira Remsen,1901–1913,Johns Hopkins University,M
+Frank Goodnow,1914–1929,Johns Hopkins University,M
+Joseph Sweetman Ames,1929–1935,Johns Hopkins University,M
+Isaiah Bowman,1935–1948,Johns Hopkins University,M
+Detlev Bronk,1949–1953,Johns Hopkins University,M
+Lowell Reed,1953–1956,Johns Hopkins University,M
+Milton S. Eisenhower,1956–1967,Johns Hopkins University,M
+Lincoln Gordon,1967– 1971,Johns Hopkins University,M
+Milton S. Eisenhower,1971–1972,Johns Hopkins University,M
+Steven Muller,1972–1990,Johns Hopkins University,M
+William C. Richardson,1990–1995,Johns Hopkins University,M
+Daniel Nathans,1995–1996,Johns Hopkins University,M
+William R. Brody,1996–2009,Johns Hopkins University,M
+Ronald J. Daniels,2009–Present,Johns Hopkins University,M
+Eleazar Wheelock,1769–1779,Dartmouth College,M
+John Wheelock,1779–1815,Dartmouth College,M
+Francis Brown,1815–1820,Dartmouth College,M
+Daniel Dana,1820–1821,Dartmouth College,M
+Bennet Tyler,1822–1828,Dartmouth College,M
+Nathan Lord,1828–1863,Dartmouth College,M
+Asa Dodge Smith,1863–1877,Dartmouth College,M
+Samuel Colcord Bartlett,1877–1892,Dartmouth College,M
+William Jewett Tucker,1892–1909,Dartmouth College,M
+Ernest Fox Nichols,1909–1916,Dartmouth College,M
+Ernest Martin Hopkins,1916–1945,Dartmouth College,M
+John Sloan Dickey,1945–1970,Dartmouth College,M
+John George Kemeny,1970–1981,Dartmouth College,M
+David Thomas McLaughlin,1981–1987,Dartmouth College,M
+James Oliver Freedman,1987–1998,Dartmouth College,M
+James Edward Wright,1998–2009,Dartmouth College,M
+Jim Yong Kim,2009–2012,Dartmouth College,M
+Philip J. Hanlon,2013-present,Dartmouth College,M
+Clark T. Hinman,1853–1854,Northwestern University,M
+Henry S. Noyes,1854–1856,Northwestern University,M
+Randolph S. Foster, 1856–1860,Northwestern University,M
+Henry S. Noyes,1860–1867,Northwestern University,M
+David H. Wheeler,1867–1869,Northwestern University,M
+Erastus O. Haven,1869–1872,Northwestern University,M
+Charles H. Fowler,1872–1876,Northwestern University,M
+Oliver Marcy,1876–1881,Northwestern University,M
+Joseph Cummings,1881–1890,Northwestern University,M
+Henry Wade Rogers,1890–1900,Northwestern University,M
+Daniel Bonbright,LLD 1900–1902,Northwestern University,M
+Edmund J. James,LLD 1902–1904,Northwestern University,M
+Thomas F. Holgate,1904–1906,Northwestern University,M
+Abram W. Harris,1906–1916,Northwestern University,M
+Thomas F. Holgate,1916–1919,Northwestern University,M
+Lynn H. Hough,1919–1920,Northwestern University,M
+Walter Dill Scott,1920–1939,Northwestern University,M
+Franklyn Bliss Snyder,1939–1949,Northwestern University,M
+John Roscoe Miller,1949–1970,Northwestern University,M
+Robert H. Strotz,1970–1984,Northwestern University,M
+Arnold R. Weber,1984–1994,Northwestern University,M
+Henry S. Bienen,1995–2009,Northwestern University,M
+Morton O. Schapiro,2009-present,Northwestern University,M
+James Manning,1765–1791,Brown University,M
+Jonathan Maxcy,1792–1802,Brown University,M
+Asa Messer,1802–1826,Brown University,M
+Francis Wayland,1827–1855,Brown University,M
+Barnas Sears,1855–1867,Brown University,M
+Alexis Caswell,1868–1872,Brown University,M
+Ezekiel Robinson,1872–1889,Brown University,M
+Elisha Andrews,1889–1898,Brown University,M
+William Faunce,1899–1929,Brown University,M
+Clarence Barbour,1929–1937,Brown University,M
+Henry Wriston,1937–1955,Brown University,M
+Barnaby Keeney,1955–1966,Brown University,M
+Ray Heffner,1966–1969,Brown University,M
+Donald Hornig,1970–1976,Brown University,M
+Howard Swearer,1977–1988,Brown University,M
+Vartan Gregorian,1989–1997,Brown University,M
+Gordon Gee,1998–2000,Brown University,M
+Sheila Blumstein,2000-2001,Brown University,F
+Ruth Simmons,2001–2012,Brown University,F
+Christina Paxson,2012–,Brown University,F
+Andrew Dickson White,1866–1885,Cornell University,M
+Charles Kendall Adams,1885–1892,Cornell University,M
+Jacob Gould Schurman,1892–1920,Cornell University,M
+Livingston Farrand,1921–1937,Cornell University,M
+Edmund Ezra Day,1937–1949,Cornell University,M
+Deane Waldo Malott,1951–1963,Cornell University,M
+James A. Perkins,1963–1969,Cornell University,M
+Dale R. Corson,1969–1977,Cornell University,M
+Frank H. T. Rhodes,1977–1995,Cornell University,M
+Hunter R. Rawlings III,1995–2003,Cornell University,M
+Jeffrey S. Lehman,2003–2005,Cornell University,M
+David J. Skorton,2006–2015,Cornell University,M
+Elizabeth Garrett,2015–2016,Cornell University,F
+Landon C. Garland,1875-1893,Vanderbilt University,M
+James H. Kirkland,1893-1937,Vanderbilt University,M
+Oliver C. Carmichael,1937-1945,Vanderbilt University,M
+Harvie Branscomb,1945-1963,Vanderbilt University,M
+Alexander Heard,1963-1982,Vanderbilt University,M
+Joe B. Wyatt,1982-2000,Vanderbilt University,M
+Elwood Gordon Gee,2001-2007,Vanderbilt University,M
+Nicholas S. Zepps,2007-present,Vanderbilt University,M
+Joseph Gibson Hoyt,1858–1863,Washington University in St. Louis,M
+William Chauvenet,1863–1869,Washington University in St. Louis,M
+William Greenleaf Eliot Jr,1870–1887,Washington University in St. Louis,M
+Winfield Scott Chaplin,1891–1907,Washington University in St. Louis,M
+David Franklin Houston,1908–1917,Washington University in St. Louis,M
+Frederic Aldin Hall,1917–1923,Washington University in St. Louis,M
+Herbert S. Hadley,1923–1927,Washington University in St. Louis,M
+George R. Throop,1927–1944,Washington University in St. Louis,M
+Arthur Holly Compton,1946–1953,Washington University in St. Louis,M
+Ethan A.H. Shepley,1954–1961,Washington University in St. Louis,M
+Carl Tolman,1961–1962,Washington University in St. Louis,M
+Thomas H. Eliot,1962–1971,Washington University in St. Louis,M
+William H. Danforth,1971–1995,Washington University in St. Louis,M
+Mark S. Wrighton,1995–,Washington University in St. Louis,M
+Edgar Odell Lovett,1912-1946,Rice University,M
+William V. Houston,1946–1961,Rice University,M
+Kenneth Pitzer,1961–1968,Rice University,M
+Norman Hackerman,1970–1985,Rice University,M
+George Rupp,1985–1993,Rice University,M
+Malcolm Gillis,1993–2004,Rice University,M
+David Leebron,2004-present,Rice University,M
+Edward F. Sorin,1842–1865,University of Notre Dame,M
+Patrick Dillon,1865–1866,University of Notre Dame,M
+William Corby,1866–1872; 1877–1881,University of Notre Dame,M
+Auguste Lemmonier,1872–1874,University of Notre Dame,M
+Patrick Colovin,1874–1877,University of Notre Dame,M
+Thomas E. Walsh,1881–1893,University of Notre Dame,M
+Andrew Morrissey,1893–1905,University of Notre Dame,M
+John W. Cavanaugh,1905–1919,University of Notre Dame,M
+James A. Burns,1919–1922,University of Notre Dame,M
+Matthew J. Walsh,1922–1928,University of Notre Dame,M
+Charles L. O’Donnell,1928–1934,University of Notre Dame,M
+John F. Cardinal O’Hara,1934–1940,University of Notre Dame,M
+John Hugh O’Donnell,1940–1946,University of Notre Dame,M
+John J. Cavanaugh,1946–1952,University of Notre Dame,M
+Theodore M. Hesburgh,1952–1987,University of Notre Dame,M
+Edward A. Malloy,1987–2005,University of Notre Dame,M
+John I. Jenkins,2005–present,University of Notre Dame,M
+Robert J. Birgeneau,2004-2013,University of California-Berkeley,M
+Robert M. Berdahl,1997-2004,University of California-Berkeley,M
+Chang-Lin Tien,1990-1997,University of California-Berkeley,M
+Ira Michael Heyman,1980-1990,University of California-Berkeley,M
+Albert H. Bowker,1971-1980,University of California-Berkeley,M
+Roger Heyns,1965-1971,University of California-Berkeley,M
+Martin E. Meyerson,1965,University of California-Berkeley,M
+Edward W. Strong,1961-1965,University of California-Berkeley,M
+Glenn T. Seaborg,1958-1961,University of California-Berkeley,M
+Clark Kerr,1952-1958,University of California-Berkeley,M
+Robert Gordon Sproul,1930-1958,University of California-Berkeley,M
+William Wallace Campbell,1923-1930,University of California-Berkeley,M
+David Prescott Barrows,1919-1923,University of California-Berkeley,M
+Benjamin Ide Wheeler,1899-1919,University of California-Berkeley,M
+Martin Kellogg,1890-1899,University of California-Berkeley,M
+Horace Davis,1880-1890,University of California-Berkeley,M
+Edward Singleton Holden,1885-1888,University of California-Berkeley,M
+William Thomas Reid,1881-1885,University of California-Berkeley,M
+Daniel Coit Gilman,1872-1875,University of California-Berkeley,M
+Henry Durant,1870-1872,University of California-Berkeley,M
+John LeConte,1876-1881,University of California-Berkeley,M
+Ignatius Alphonso Few,1836-1839,Emory University,M
+Augustus Baldwin Longstreet,1840-1848,Emory University,M
+George Foster Pierce,1848-1854,Emory University,M
+Alexander Means,1854-1855,Emory University,M
+James R. Thomas,1855-1867,Emory University,M
+Luther M. Smith,1867-1871,Emory University,M
+Osborn L. Smith,1871-1875,Emory University,M
+Atticus Greene Haygood,1875-1884,Emory University,M
+Isaac Stiles Hopkins,1884-1888,Emory University,M
+Warren Akin Candler,1888-1898,Emory University,M
+Charles E. Dowman,1898-1902,Emory University,M
+James Edward Dickey,1902-1915,Emory University,M
+Franklin N. Parker,1920,Emory University,M
+Harvey Warren Cox,1920-1942,Emory University,M
+Goodrich C. White,1942-1957,Emory University,M
+Sidney Walter Martin,1957-1962,Emory University,M
+Henry Bowden,1962-1963,Emory University,M
+Judson Ward,1962-1963,Emory University,M
+Sanford Soverhill Atwood,1963-1977,Emory University,M
+James T. Laney,1977-1993,Emory University,M
+Billy E. Frye,1993-1994,Emory University,M
+William M. Chace,1994-2003,Emory University,M
+James W. Wagner,2003-Present,Emory University,M
+Robert Plunkett,1791-1793,Georgetown University,M
+Robert Molyneux,1793-1796,Georgetown University,M
+Louis Guillaume Valentin Dubourg S.S.,1796-1798,Georgetown University,M
+Leonard Neale,1798-1806,Georgetown University,M
+Robert Molyneux,1806-1808,Georgetown University,M
+Francis Neale,1809-1809,Georgetown University,M
+William Matthews,1809-1809,Georgetown University,M
+Francis Neale,1809-1812,Georgetown University,M
+John A. Grassi,1812-1817,Georgetown University,M
+Benedict Joseph Fenwick ,1817-1817,Georgetown University,M
+Anthony Kohlmann,1817-1820,Georgetown University,M
+Enoch Fenwick,1820-1822,Georgetown University,M
+Benedict Joseph Fenwick ,1822-1825,Georgetown University,M
+Stephen L. Dubuisson,1825-1826,Georgetown University,M
+William Feiner,1826-1829,Georgetown University,M
+John W. Beschter,1829-1829,Georgetown University,M
+Thomas F. Mulledy,1829-1837,Georgetown University,M
+William McSherry,1838-1840,Georgetown University,M
+Joeseph A. Lopez,1840-1840,Georgetown University,M
+James A. Ryder,1840-1845,Georgetown University,M
+Samuel Mulledy,1845-1845,Georgetown University,M
+Thomas F. Mulledy,1845-1848,Georgetown University,M
+James A. Ryder,1848-1851,Georgetown University,M
+Charles H. Stonestreet,1851-1852,Georgetown University,M
+Bernard A. Maguire,1853-1858,Georgetown University,M
+John Early,1858-1866,Georgetown University,M
+Bernard A. Maguire,1866-1870,Georgetown University,M
+John Early,1870-1873,Georgetown University,M
+Patrick F. Healy,1874-1882,Georgetown University,M
+James A. Doonan,1882-1888,Georgetown University,M
+John Havens Richards,1888-1898,Georgetown University,M
+John D. Whitney,1898-1901,Georgetown University,M
+Jerome Daugherty,1901-1905,Georgetown University,M
+David H. Buel,1905-1908,Georgetown University,M
+Joseph J. Himmel,1908-1912,Georgetown University,M
+Alphonsus J. Donlon,1912-1918,Georgetown University,M
+John B. Creeden,1918-1924,Georgetown University,M
+Charles W. Lyons,1924-1928,Georgetown University,M
+W. Coleman Nevils,1928-1935,Georgetown University,M
+Arthur A. O'Leary,1935-1942,Georgetown University,M
+Lawrence C. Gorman,1942-1949,Georgetown University,M
+John Hunter Guthrie,1949-1952,Georgetown University,M
+Edward B. Bunn,1952-1964,Georgetown University,M
+Gerard J. Campbell,1964-1969,Georgetown University,M
+Robert J. Henle,1969-1976,Georgetown University,M
+Timothy Healy,1976-1989,Georgetown University,M
+Leo J. O'Donovan,1989-2001,Georgetown University,M
+John J. DeGioia,2001-present,Georgetown University,M
+Arthur Hamerschlag,1903–1922,Carnegie Mellon University,M
+Thomas Baker,1922–1935,Carnegie Mellon University,M
+Robert Doherty,1936–1950,Carnegie Mellon University,M
+John Warner,1950–1965,Carnegie Mellon University,M
+Guyford Stever,1965–1972,Carnegie Mellon University,M
+Richard Cyert,1972–1990,Carnegie Mellon University,M
+Robert Mehrabian,1990–1997,Carnegie Mellon University,M
+Jared Cohon,1997–2013,Carnegie Mellon University,M
+Subra Suresh,2013–Present,Carnegie Mellon University,M
+Gene D. Block, 2007-present,University of California-Los Angeles,M
+Norman Abrams,2006-2007,University of California-Los Angeles,M
+Albert Carnesale,1997-2006,University of California-Los Angeles,M
+Charles Young,1968-1997,University of California-Los Angeles,M
+Franklin Murphy,1960-1968,University of California-Los Angeles,M
+Vern Knudsen,1959-1960,University of California-Los Angeles,M
+Raymond Allen,1952-1959,University of California-Los Angeles,M
+Clarence Dykstra,1945-1950,University of California-Los Angeles,M
+Earle Hedrick,1937-1942,University of California-Los Angeles,M
+Ernest Moore,1919-1936,University of California-Los Angeles,M
+Marion M. Bovard,1880-1891,University of Southern California,M
+Joseph P. Widney,1892-1895,University of Southern California,M
+George W. White,1895-1899,University of Southern California,M
+George F. Bovard,1903-1921,University of Southern California,M
+Rufus B. von KleinSmid,1921-1947,University of Southern California,M
+Fred D. Fagg Jr,1947-1957,University of Southern California,M
+Norman Topping,1958-1970,University of Southern California,M
+John R. Hubbard,1970-1980,University of Southern California,M
+James H. Zumberge,1980-199,University of Southern California,M
+Steven B. Sample,1991-2010,University of Southern California,M
+Chrysostomos L. Max Nikias,2010-present,University of Southern California,M
+Edwin Anderson Alderman,1904–1931,University of Virginia,M
+John Lloyd Newcomb,1931–1947,University of Virginia,M
+Colgate W. Darden Jr,1947–1959,University of Virginia,M
+Edgar F. Shannon Jr,1959–1974,University of Virginia,M
+Frank L. Hereford Jr,1974–1985,University of Virginia,M
+Robert M. O’Neil,1985–1990,University of Virginia,M
+John T. Casteen III,1990–2010,University of Virginia,M
+Teresa A. Sullivan,2010–2012,University of Virginia,F
+Carl Zeithaml,2012,University of Virginia,M
+Teresa A. Sullivan,2012–present,University of Virginia,F
+Anthony P. Monaco, 2011-present,Tufts University,M
+Lawrence S. Bacow, 2001–2011,Tufts University,M
+John DiBiaggio,1992–2001,Tufts University,M
+Jean Mayer,1976–1992,Tufts University,M
+Burton Crosby Hallowell,1967–1976,Tufts University,M
+Nils Yngve Wessell,1953–1966,Tufts University,M
+Leonard Carmichael,1938–1952,Tufts University,M
+John Albert Cousens,1920–1937,Tufts University,M
+Hermon Carey Bumpus,1915–1919,Tufts University,M
+Frederick W. Hamilton,1906–1912,Tufts University,M
+Elmer Hewitt Capen,1875–1905,Tufts University,M
+Alonzo Ames Miner,1862–1875,Tufts University,M
+Hosea Ballou II,1853–1861,Tufts University,M
+Samuel Wait,1834–1845,Wake Forest University,M
+William Hooper,1845–1848,Wake Forest University,M
+John B. White,1848–1853,Wake Forest University,M
+Washington M. Wingate,1856–1862;1866–1879,Wake Forest University,M
+Thomas H. Pritchard,1879–1882,Wake Forest University,M
+Charles Taylor,1884–1905,Wake Forest University,M
+William L. Poteat,1905–1927,Wake Forest University,M
+Francis Pendleton Gaines,1927–1930,Wake Forest University,M
+Thurman D. Kitchin,1930–1950,Wake Forest University,M
+Harold W. Tribble,1950–1967,Wake Forest University,M
+James R. Scales,1967–1983,Wake Forest University,M
+Thomas K. Hearn Jr,1983–2005,Wake Forest University,M
+Nathan O. Hatch,2005–present,Wake Forest University,M
+Mark S. Schlissel,2014-Present,University of Michigan Ann-Arbor,M
+Mary Sue Coleman,2002-2014,University of Michigan Ann-Arbor,F
+Joseph White,2002,University of Michigan Ann-Arbor,M
+Lee C. Bollinger,1996-2001,University of Michigan Ann-Arbor,M
+Homer A. Neal,1996,University of Michigan Ann-Arbor,M
+James Johnson Duderstadt,1988-1996,University of Michigan Ann-Arbor,M
+Robben Wright Fleming,1988,University of Michigan Ann-Arbor,M
+Harold Tafler Shapiro,1980-1987,University of Michigan Ann-Arbor,M
+Allan Frederick Smith,1979,University of Michigan Ann-Arbor,M
+Robben Wright Fleming,1968-1979,University of Michigan Ann-Arbor,M
+Harlan Hatcher,1951-1967,University of Michigan Ann-Arbor,M
+Alexander Grant Ruthven,1929-1951,University of Michigan Ann-Arbor,M
+Clarence Cook Little,1925-1929,University of Michigan Ann-Arbor,M
+Alfred Henry Lloyd,Feb.-Sept. 1925,University of Michigan Ann-Arbor,M
+Marion Leroy Burton,1920-1925,University of Michigan Ann-Arbor,M
+Harry Burns Hutchins,1909-1920,University of Michigan Ann-Arbor,M
+James Burrill Angell,1871-1909,University of Michigan Ann-Arbor,M
+Henry Simmons Frieze,1869-1871; 1880-1882; 1887,University of Michigan Ann-Arbor,M
+Erastus Otis Haven,1863-1869,University of Michigan Ann-Arbor,M
+Henry Philip Tappan,1852-1863,University of Michigan Ann-Arbor,M
+Johannes Bapst,1863–1869,Boston College,M
+Robert W. Brady,1869–1870,Boston College,M
+Robert Fulton,1870–1880,Boston College,M
+Jeremiah O'Connor,1880-1884,Boston College,M
+Edward V. Boursaud,1884-1887,Boston College,M
+Thomas H. Stack,1887,Boston College,M
+Nicholas Russo,1887-1888,Boston College,M
+Robert Fulton,1888-1891,Boston College,M
+Edward I. Devitt,1891-1894,Boston College,M
+Timothy Brosnahan,1894-1898,Boston College,M
+W. G. Read Mullan,1898-1903,Boston College,M
+William F. Gannon,1903-1907,Boston College,M
+Thomas I. Gasson,1907-1914,Boston College,M
+Charles W. Lyons,1914-1919,Boston College,M
+William Devlin,1919-1925,Boston College,M
+James H. Dolan,1925-1932,Boston College,M
+Louis J. Gallagher,1932-1937,Boston College,M
+William J. McGarry,1937-1939,Boston College,M
+William J. Murphy,1939-1945,Boston College,M
+William L. Keleher,1945-1951,Boston College,M
+Joseph R. N. Maxwell,1951-1958,Boston College,M
+Michael P. Walsh,1958-1968,Boston College,M
+W. Seavey Joyce,1968-1972,Boston College,M
+John Donald Monan,1972-1996,Boston College,M
+William P. Leahy,1996-present,Boston College,M
+Joseph Caldwell,1804-1812,University of North Carolina-Chapel Hill,M
+Robert Hett Chapman,1812-1816,University of North Carolina-Chapel Hill,M
+Joseph Caldwell,1816-1835,University of North Carolina-Chapel Hill,M
+Elisha Mitchell,1835,University of North Carolina-Chapel Hill,M
+David Lowry Swain,1835-1868,University of North Carolina-Chapel Hill,M
+Solomon Pool,1869-1872,University of North Carolina-Chapel Hill,M
+Charles Phillips,1875-1876,University of North Carolina-Chapel Hill,M
+Kemp Plummer Battle,1876-1891,University of North Carolina-Chapel Hill,M
+George Tayloe Winston,1891-1896,University of North Carolina-Chapel Hill,M
+Edwin Anderson Alderman,1896-1900,University of North Carolina-Chapel Hill,M
+Francis Preston Venable,1900-1913,University of North Carolina-Chapel Hill,M
+Edward Kidder Graham,1914-1918,University of North Carolina-Chapel Hill,M
+M. H. Stacy,1918-1919,University of North Carolina-Chapel Hill,M
+Harry Woodburn Chase,1919-1930,University of North Carolina-Chapel Hill,M
+Frank Porter Graham,1930-1934,University of North Carolina-Chapel Hill,M
+Robert Burton House,1945-1957,University of North Carolina-Chapel Hill,M
+William Brantley Aycock,1957-1964,University of North Carolina-Chapel Hill,M
+Paul F. Sharp,1964-1966,University of North Carolina-Chapel Hill,M
+John Carlyle Sitterson,1966-1972,University of North Carolina-Chapel Hill,M
+Nelson Ferebee Taylor,1972-1980,University of North Carolina-Chapel Hill,M
+Christopher C. Fordham,1980-1988,University of North Carolina-Chapel Hill,M
+Paul Hardin,1988-1995,University of North Carolina-Chapel Hill,M
+Michael Hooker,1995-1999,University of North Carolina-Chapel Hill,M
+William O. McCoy,1999-2000,University of North Carolina-Chapel Hill,M
+James Moeser,2000-2008,University of North Carolina-Chapel Hill,M
+Holden Thorp,2008-2013,University of North Carolina-Chapel Hill,M
+James M. Mathews,1831-1839,New York University,M
+Theodore Frelinghuysen,1839-1850,New York University,M
+Isaac Ferris,1853-1870,New York University,M
+Howard Crosby,1870-1881,New York University,M
+John Hall,1881-1891,New York University,M
+Henry Mitchell MacCracken,1891-1910,New York University,M
+John Henry MacCracken,1910-1911,New York University,M
+Elmer Ellsworth Brown,1911-1933,New York University,M
+Harry Woodburn Chase,1933-1951,New York University,M
+James Loomis Madden,1951-1952,New York University,M
+Henry Townley Heald,1952-1956,New York University,M
+Carroll Vincent Newsom,1956-1962,New York University,M
+James McNaughton Hester,1962-1975,New York University,M
+John C. Sawhill,1975-1980,New York University,M
+Ivan Loveridge Bennett Jr,1979-1981,New York University,M
+John Brademas,1981-1991,New York University,M
+Lawrence Jay Oliva,1991-2002,New York University,M
+John Sexton,2002-present,New York University,M
+Martin Brewer Anderson,1853-1888,University of Rochester,M
+David Jayne Hill,1889-1896,University of Rochester,M
+Benjamin Rush Rhees,1900-1935,University of Rochester,M
+Alan Chester Valentine,1935-1950,University of Rochester,M
+Cornelis Willem de Kiewiet,1951-1961,University of Rochester,M
+Wilson Allen Wallis,1962-1970,University of Rochester,M
+Robert Lamb Sproull,1970-1984,University of Rochester,M
+George Dennis O'Brien,1984-1994,University of Rochester,M
+Thomas H. Jackson,1994-2005,University of Rochester,M
+Joel Seligman,2005-present,University of Rochester,M
+Ronald D. Leibowitz,2015-present,Brandeis University,M
+Frederick M. Lawrence,2011-2015,Brandeis University,M
+Jehuda Reinharz,1994-2010,Brandeis University,M
+Samuel O. Thier,1991-1994,Brandeis University,M
+Evelyn Erika Handler,1983-1991,Brandeis University,F
+Marver Hillel Bernstein,1972-1983,Brandeis University,M
+Charles Irwin Schottland,1970-1972,Brandeis University,M
+Morris Berthold Abram,1968-1970,Brandeis University,M
+Abram Leon Sachar,1948-1968,Brandeis University,M
+James Blair,1693–1743,College of William and Mary,M
+William Dawson,1743–1752,College of William and Mary,M
+William Stith,1752–1755,College of William and Mary,M
+Thomas Dawson,1755–1760,College of William and Mary,M
+William Yates,1761–1764,College of William and Mary,M
+James Horrocks,1764–1771,College of William and Mary,M
+John Camm,1771–1776,College of William and Mary,M
+James Madison,1776–1812,College of William and Mary,M
+John Bracken,1812–1814,College of William and Mary,M
+John Augustine Smith,1814–1826,College of William and Mary,M
+William Holland Wilmer,1826–1827,College of William and Mary,M
+Adam Empie,1827–1836,College of William and Mary,M
+Thomas Roderick Dew,1836–1846,College of William and Mary,M
+Robert Saunders Jr,1846–1848,College of William and Mary,M
+John Johns,1849–1854,College of William and Mary,M
+Benjamin Stoddert Ewell,1854–1888,College of William and Mary,M
+Lyon Gardiner Tyler,1888–1919,College of William and Mary,M
+Julian Alvin Carroll Chandler,1919–1934,College of William and Mary,M
+John Stewart Bryan,1934–1942,College of William and Mary,M
+John Edwin Pomfret,1942–1951,College of William and Mary,M
+Alvin Duke Chandler,1951–1960,College of William and Mary,M
+Davis Young Paschall,1960–1971,College of William and Mary,M
+Thomas Ashley Graves Jr,1971–1985,College of William and Mary,M
+George R. Healy,1985,College of William and Mary,M
+Paul R. Verkuil,1985–1992,College of William and Mary,M
+Timothy J. Sullivan,1992–2005,College of William and Mary,M
+Gene Nichol,2005–2008,College of William and Mary,M
+Walter Taylor Reveley III,2008–present,College of William and Mary,M
+George P. Bud Peterson,2009-present,Georgia Institute of Technology,M
+Gerald Wayne Clough,1994-2008,Georgia Institute of Technology,M
+John Patrick Crecine,1987-1994,Georgia Institute of Technology,M
+Joseph M. Pettit,1972-1986,Georgia Institute of Technology,M
+Arthur G. Hansen,1969-1971,Georgia Institute of Technology,M
+Edwin D. Harrison,1957-1969,Georgia Institute of Technology,M
+Blake R. Van Leer,1944-1956,Georgia Institute of Technology,M
+Marion L. Brittain,1922-1944,Georgia Institute of Technology,M
+Kenneth G. Matheson,1906-1922,Georgia Institute of Technology,M
+Lyman Hall,1896-1905,Georgia Institute of Technology,M
+Isaac S. Hopkins,1888-1896,Georgia Institute of Technology,M
+Charles B. Storrs,1830-1833,Case Western Reserve University,M
+George E. Pierce,1834-1855,Case Western Reserve University,M
+Henry L. Hitchcock,1855-1871,Case Western Reserve University,M
+Carroll Cutler,1871-1886,Case Western Reserve University,M
+Hiram C. Haydn,1887-1890,Case Western Reserve University,M
+Charles F. Thwing,1890-1921,Case Western Reserve University,M
+James D. Williamson,1921-1923,Case Western Reserve University,M
+Robert E. Vinson,1923-1933,Case Western Reserve University,M
+Winfred G. Leutner,1933-1949,Case Western Reserve University,M
+John S. Millis,1949-1967,Case Western Reserve University,M
+Cady Staley,1886-1902,Case Western Reserve University,M
+Charles S. Howe,1902-1929,Case Western Reserve University,M
+William E. Wickenden,1929-1947,Case Western Reserve University,M
+Thomas Keith Glennan,1947-1966,Case Western Reserve University,M
+Robert W. Morse,1966-1967,Case Western Reserve University,M
+Robert W. Morse,1967-1970,Case Western Reserve University,M
+Louis A. Toepfer,1970-1980,Case Western Reserve University,M
+David V. Ragone,1980-1987,Case Western Reserve University,M
+Agnar Pytte,1987-1999,Case Western Reserve University,M
+David H. Auston,1999-2001,Case Western Reserve University,M
+James W. Wagner,2001-2002,Case Western Reserve University,M
+Edward M. Hundert,2002-2006,Case Western Reserve University,M
+Gregory L. Eastwood,2006-2007,Case Western Reserve University,M
+Barbara R. Snyder,2007-present,Case Western Reserve University,F
+Clarence L. Phelps,1944–1946,University of California-Santa Barbara,M
+John Harold Williams,1946–1955,University of California-Santa Barbara,M
+Clark G. Kuebler,1955–1955,University of California-Santa Barbara,M
+John C. Snidecor,1956–1956,University of California-Santa Barbara,M
+Elmer Noble,1956–1959,University of California-Santa Barbara,M
+Samuel B. Gould,1959–1962,University of California-Santa Barbara,M
+Vernon Cheadle,1962–1977,University of California-Santa Barbara,M
+Robert Huttenback,1977–1986,University of California-Santa Barbara,M
+Daniel G. Aldrich,1986–1987,University of California-Santa Barbara,M
+Barbara Uehling,1987–1994,University of California-Santa Barbara,F
+Henry T. Yang,1994–present,University of California-Santa Barbara,M
+Daniel G. Aldrich,1962-1984,University of California-Irvine,M
+Jack W. Peltason,1984-1993,University of California-Irvine,M
+Laurel L. Wilkening,1993-1998,University of California-Irvine,F
+Ralph J. Cicerone,1998-2005,University of California-Irvine,M
+Michael V. Drake,2005-2014,University of California-Irvine,M
+Howard Gillman,2014-present,University of California-Irvine,M
+Pradeep K. Khosla,2012-present,University of California-San Diego,M
+Marye Anne Fox,2004-2012,University of California-San Diego,F
+Robert C. Dynes,1996-2003,University of California-San Diego,M
+Richard C. Atkinson,1980-1995,University of California-San Diego,M
+William D. McElroy,1972-1980,University of California-San Diego,M
+William J. McGill,1968-1970,University of California-San Diego,M
+John S. Galbraith,1964-1968,University of California-San Diego,M
+Herb F. York,1960-1964,University of California-San Diego,M
+William Fairfield Warren,1873–1903,Boston University,M
+William Edwards Huntington,1904–1911,Boston University,M
+Lemuel Herbert Murlin,1911–1924,Boston University,M
+Daniel L. Marsh,1926–1951,Boston University,M
+Harold C. Case,1951–1967,Boston University,M
+Arland F. Christ-Janer,1967–1970,Boston University,M
+John Silber,1971–1996,Boston University,M
+Jon Westling,1996–2002,Boston University,M
+Aram V. Chobanian,2003–2005,Boston University,M
+Robert A. Brown, 2005-present,Boston University,M
+Samuel Blatchford,1824–1828,Rensselaer Polytechnic Institute,M
+John Chester,1828–1829,Rensselaer Polytechnic Institute,M
+Eliphalet Nott,1829–1845,Rensselaer Polytechnic Institute,M
+Nathan S.S. Beman,1845–1865,Rensselaer Polytechnic Institute,M
+John F. Winslow,1865–1868,Rensselaer Polytechnic Institute,M
+Thomas C. Brinsmade,1868,Rensselaer Polytechnic Institute,M
+James Forsyth,1868–1886,Rensselaer Polytechnic Institute,M
+William Gurley, 1839;1886–1887,Rensselaer Polytechnic Institute,M
+Albert E. Powers,1887–1888,Rensselaer Polytechnic Institute,M
+John H. Peck,1888–1901,Rensselaer Polytechnic Institute,M
+Palmer C. Ricketts,1901–1934,Rensselaer Polytechnic Institute,M
+William O. Hotchkiss,1935–1943,Rensselaer Polytechnic Institute,M
+Livingston W. Houston,1913;1943–1958,Rensselaer Polytechnic Institute,M
+Richard G. Folsom,1958–1971,Rensselaer Polytechnic Institute,M
+Richard J. Grosh,1971–1976,Rensselaer Polytechnic Institute,M
+George M. Low,1948;1976–1984,Rensselaer Polytechnic Institute,M
+Daniel Berg,1985–1987,Rensselaer Polytechnic Institute,M
+Stanley I. Landgraf,1946,Rensselaer Polytechnic Institute,M
+Roland W. Schmitt,1988–1993,Rensselaer Polytechnic Institute,M
+Robert Byron Pipes,1993–1998,Rensselaer Polytechnic Institute,M
+Cornelius J. Barton,1998–1999,Rensselaer Polytechnic Institute,M
+Shirley Ann Jackson,1999–,Rensselaer Polytechnic Institute,F
+William Preston Johnston,1884-1899,Tulane University,M
+William Oscar Rogers,1899-1900,Tulane University,M
+Edwin Anderson Alderman,1900-1904,Tulane University,M
+Edwin Boone Craighead,1904-1912,Tulane University,M
+Robert Sharp ,1912-1913,Tulane University,M
+Robert Sharp,1913-1918,Tulane University,M
+Albert Bledsoe Dinwiddie,1918-1935,Tulane University,M
+Douglas Smith Anderson,1935-1936,Tulane University,M
+Robert Leonval Menuet,1936-1937,Tulane University,M
+Rufus Carrollton Harris,1937-1960,Tulane University,M
+Maxwell Edward Lapham,1960,Tulane University,M
+Herbert Eugene Longenecker,1960-1975,Tulane University,M
+Francis Sheldon Hackney,1975-1980,Tulane University,M
+Eamon Kelly,1980-1981,Tulane University,M
+Eamon Kelly,1981-1998,Tulane University,M
+Scott S. Cowen,1998-2014,Tulane University,M
+Michael A. Fitts,2014-present,Tulane University,M
+Stanley B. Freeborn,1958-1959,University of California-Davis,M
+Emil Mrak,1959-1969,University of California-Davis,M
+James H. Meyer,1969-1987,University of California-Davis,M
+Theodore L. Hullar,1987-1994,University of California-Davis,M
+Larry Vanderhoef,1994-2009,University of California-Davis,M
+Linda Katehi,2009-present,University of California-Davis,F
+John Milton Gregory,1867–1880,University of Illinois Urbana-Champaign,M
+Selim H. Peabody,1880–1891,University of Illinois Urbana-Champaign,M
+Thomas J. Burrill,1891–1894,University of Illinois Urbana-Champaign,M
+Andrew S. Draper,1894–1904,University of Illinois Urbana-Champaign,M
+Edmund J. James,1904–1920,University of Illinois Urbana-Champaign,M
+David Kinley,1920–1930,University of Illinois Urbana-Champaign,M
+Harry W. Chase,1930–1933,University of Illinois Urbana-Champaign,M
+Arthur H. Daniels,1933–1934,University of Illinois Urbana-Champaign,M
+Arthur C. Willard,1934–1946,University of Illinois Urbana-Champaign,M
+George D. Stoddard,1946–1953,University of Illinois Urbana-Champaign,M
+Lloyd Morey,1953–1955,University of Illinois Urbana-Champaign,M
+David D. Henry,1955–1971,University of Illinois Urbana-Champaign,M
+John Corbally,1971–1979,University of Illinois Urbana-Champaign,M
+Stanley O. Ikenberry,1979–1995,University of Illinois Urbana-Champaign,M
+James J. Stukel,1995–2005,University of Illinois Urbana-Champaign,M
+Bernard Joseph White,2005–2009,University of Illinois Urbana-Champaign,M
+Stanley O. Ikenberry,2010–2010,University of Illinois Urbana-Champaign,M
+Michael Hogan,2010–2012,University of Illinois Urbana-Champaign,M
+Robert Easter,2012–2015,University of Illinois Urbana-Champaign,M
+Timothy Killeen,2015–Present,University of Illinois Urbana-Champaign,M
+John Hiram Lathrop,1849-1858,University of Wisconsin-Madison,M
+Henry Barnard,1859-1861,University of Wisconsin-Madison,M
+John Whelan Sterling,1861-1867,University of Wisconsin-Madison,M
+Paul Chadbourne,1867-1870,University of Wisconsin-Madison,M
+John Hanson Twombly,1871-1874,University of Wisconsin-Madison,M
+John Bascom,1874-1887,University of Wisconsin-Madison,M
+Thomas Chrowder Chamberlin,1887-1892,University of Wisconsin-Madison,M
+Charles Kendall Adams,1892-1901,University of Wisconsin-Madison,M
+Edward Asahel Birge,1901-1903,University of Wisconsin-Madison,M
+Charles R. Van Hise,1903-1918,University of Wisconsin-Madison,M
+Edward Asahel Birge,1918-1925,University of Wisconsin-Madison,M
+Glenn Frank,1925-1937,University of Wisconsin-Madison,M
+George Sellery,1937-1937,University of Wisconsin-Madison,M
+Clarence Addison Dykstra,1937-1945,University of Wisconsin-Madison,M
+Edwin Broun Fred,1945-1958,University of Wisconsin-Madison,M
+Conrad Elvehjem,1958-1962,University of Wisconsin-Madison,M
+Fred Harvey Harrington,1962-1970,University of Wisconsin-Madison,M
+Robert Clodius,1970-1970,University of Wisconsin-Madison,M
+John Carrier Weaver,1971-1971,University of Wisconsin-Madison,M
+Robert Clodius,1963-1964,University of Wisconsin-Madison,M
+Robben Wright Fleming,1964-1967,University of Wisconsin-Madison,M
+William H. Sewell,1967-1968,University of Wisconsin-Madison,M
+Bryant Kearl,1968-1968,University of Wisconsin-Madison,M
+Hugh Edwin Young,1968-1977,University of Wisconsin-Madison,M
+Glenn Simpson Pound,1977-1977,University of Wisconsin-Madison,M
+Irving Shain,1977-1986,University of Wisconsin-Madison,M
+Bernard Cecil Cohen,1987-1987,University of Wisconsin-Madison,M
+Donna Shalala,1988-1993,University of Wisconsin-Madison,F
+David Ward,1993-2000,University of Wisconsin-Madison,M
+John D. Wiley,2001-2008,University of Wisconsin-Madison,M
+Carolyn Biddy Martin,2008-2011,University of Wisconsin-Madison,F
+David Ward,2011-2013,University of Wisconsin-Madison,M
+Rebecca Blank,2013-current,University of Wisconsin-Madison,F
+Henry Coppee,1866-1875,Lehigh University,M
+John McDowell Leavitt,1875-1880,Lehigh University,M
+Robert Alexander Lamberton,1880-1893,Lehigh University,M
+Thomas Messinger Drown,1895-1904,Lehigh University,M
+Henry Sturgis Drinker,1905-1920,Lehigh University,M
+Charles Russ Richards,1922-1935,Lehigh University,M
+Clement C. Williams,1935-1944,Lehigh University,M
+Martin Dewey Whitaker,1946-1960,Lehigh University,M
+Harvey A. Neville,1961-1964,Lehigh University,M
+W. Deming Lewis,1964-1982,Lehigh University,M
+Peter Likins,1982-1997,Lehigh University,M
+William C. Hittinger,1997-98,Lehigh University,M
+Gregory C. Farrington,1998-2006,Lehigh University,M
+Alice P. Gast,2006-2014,Lehigh University,F
+Kevin Clayton,2014-2015,Lehigh University,M
+Frank Palmer Speare,1898–1940,Northeastern University,M
+Carl Stephens Ell,1940–1959,Northeastern University,M
+Asa Smallidge Knowles,1959–1975,Northeastern University,M
+Kenneth Gilmore Ryder,1975–1989,Northeastern University,M
+John Anthony Curry,1989–1996,Northeastern University,M
+Richard M. Freeland,1996–2006,Northeastern University,M
+Joseph Aoun,2006–present,Northeastern University,M
+Evan Pugh,1859-1864,Pennsylvania State University,M
+William Henry Allen,1864-1866,Pennsylvania State University,M
+John Fraser,1866-1868,Pennsylvania State University,M
+Thomas Henry Burrowes,1868-1871,Pennsylvania State University,M
+James Calder,1871-1880,Pennsylvania State University,M
+Joseph Shortlidge,1880-1881,Pennsylvania State University,M
+James Y. McKee,1881-1882,Pennsylvania State University,M
+George W. Atherton,1882-1906,Pennsylvania State University,M
+James A. Beaver,1906-1908,Pennsylvania State University,M
+Edwin Erle Sparks,1908-1920,Pennsylvania State University,M
+John Martin Thomas,1921-1925,Pennsylvania State University,M
+Ralph D. Hetzel,1927-1947,Pennsylvania State University,M
+James Milholland,1947-1950,Pennsylvania State University,M
+Milton S. Eisenhower,1950-1956,Pennsylvania State University,M
+Eric A. Walker,1956-1970,Pennsylvania State University,M
+John W. Oswald,1970-1983,Pennsylvania State University,M
+Bryce Jordan,1983-1990,Pennsylvania State University,M
+Joab Thomas,1990-1995,Pennsylvania State University,M
+Graham Spanier,1995-2011,Pennsylvania State University,M
+Rodney Erickson,2011-2014,Pennsylvania State University,M
+Eric J. Barron,2014-present,Pennsylvania State University,M
+Andrew W. Sledd,1905–09,University of Florida,M
+Albert A. Murphree,1909–27,University of Florida,M
+James M. Farr,1927–28,University of Florida,M
+John J. Tigert IV,1928–47,University of Florida,M
+Harold Hume,1947,University of Florida,M
+J. Hillis Miller Sr,1947–53,University of Florida,M
+John S. Allen,1953–55,University of Florida,M
+Julius Wayne Reitz,1955–67,University of Florida,M
+Stephen C. O'Connell,1967–73,University of Florida,M
+E. Travis York,1973–74,University of Florida,M
+Robert Q. Marston,1974–84,University of Florida,M
+Marshall M. Criser Jr,1984–89,University of Florida,M
+Robert A. Bryan,1989–90,University of Florida,M
+John V. Lombardi,1990–99,University of Florida,M
+Charles E. Young,1999-2003,University of Florida,M
+James Bernard Machen,2003–14,University of Florida,M
+W. Kent Fuchs,2015-present,University of Florida,M
