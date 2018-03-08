@@ -30,29 +30,50 @@ $(document).ready(function() {
     $('#my-table').DataTable();
 });
 ```
-`example` is the ID of the table you want to make interactive. `#my-table` is a way for the JavaScript to refer to the table. Whatever is the ID of the table, you add a `#` before it if you want to manipulate it using JavaScript.
+
+`example` is the ID of the table you want to make interactive. `$('#my-table')` is a way for jQuery to refer to the table. Whatever is the ID of the table, you add a `#` before it if you want to manipulate it using jQuery. (e.g. $(document) refers to the entire html)
+
+The whole code basically means: once the document is ready to load, select `my-table` and apply the DataTable() function to it to turn it into an interactive table.
 
 ### ***Step 4: See your web page come alive*** 
 You could put all of these files on a server and then see how it looks. But, your computer is capable of being a server, too. We have installed a software called `http-server`, which allows you to make your computer a local server.
 
 ```bash
-cd path/to/repo
+cd path/to/folder
 http-server
 ```
 This will "serve" all the files from your current directory to port 8080. Open a browser and type `localhost:8080` and see your first interactive table!
 
 ### Table options
-1. Default to ordering by a particular column.
-```javascript
+jQuery DataTables offers us several options to work with our interactive table. The way to access these options is by using a [JavaScript object](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics). This is how an object looks.
+
+```
 {
+  'name': 'Bob Smith',
+  'age': 32,
+  'gender': 'male',
+  'interests': ['music', 'skiing'],
+
+}
+```
+
+We see that it's basically a collection of attributes. We will use this object to modify attributes of our DataTable. The library has certain defined attributes that we will access.
+
+1. **Disable certain features**
+```javascript
+  'paging': false,
+  'ordering': false
+```
+
+
+2. **Default to ordering by a particular column.**
+```javascript
   "order": [[ 2, "desc" ]]
-);
 
 ```
 
-2. Hide certain columns.
+3. **Hide certain columns.**
 ```javascript
-
   "columnDefs": [
       {
           "targets": [ 2 ],
@@ -62,10 +83,12 @@ This will "serve" all the files from your current directory to port 8080. Open a
   ]
 ```
 
-3. Language options: Change your thousand and decimal separators
+4. **Language options: Change your thousand and decimal separators.**
 ```javascript
-"language": {
+  "language": {
             "decimal": ",",
             "thousands": "."
         }
 ```
+
+There are more examples in the [library documentation](https://datatables.net/examples/index).
