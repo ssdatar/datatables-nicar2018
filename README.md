@@ -1,8 +1,8 @@
-# Interactive datatables in less than an hour
+# Interactive datatables in an hour
 #### Quick link [bit.ly/nicar18-datatables](http://bit.ly/nicar18-datatables)
 
-***By Saurabh Datar***
-[@ssdatar](https://twitter.com/ssdatar)
+***Saurabh Datar***
+Find me on Twitter [@ssdatar](https://twitter.com/ssdatar) or email me
 saurabhsdatar@gmail.com
 
 This is a simple tutorial to build an interactive data table that you can publish quickly without having to write much code. 
