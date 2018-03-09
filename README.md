@@ -1,8 +1,8 @@
-# Interactive datatables in less than an hour
+# Interactive datatables in an hour
 #### Quick link [bit.ly/nicar18-datatables](http://bit.ly/nicar18-datatables)
 
-***By Saurabh Datar***
-[@ssdatar](https://twitter.com/ssdatar)
+***Saurabh Datar***
+Find me on Twitter [@ssdatar](https://twitter.com/ssdatar) or email me
 saurabhsdatar@gmail.com
 
 This is a simple tutorial to build an interactive data table that you can publish quickly without having to write much code. 
@@ -127,12 +127,20 @@ Here are a few examples. The first one includes the complete code you can copy-p
   ]
 ```
 
-4. **Language options: Change your thousand and decimal separators.**
+3. **Change the number of elements per page**: This involves some more code. But it's pretty simple. Say you want to change the number of rows per page to 13. Here's what you do.
+```javascript
+$(document).ready(function(){
+  var table = $('#my-table').DataTable();
+  table.page.len(10).draw();
+});
+```
+
+4. **Change your thousand and decimal separators.**
 ```javascript
   "language": {
-        "decimal": ",",
-        "thousands": "."
+      "decimal": ",",
+      "thousands": "."
     }
 ```
 
-There are more examples in the [library documentation](https://datatables.net/examples/index).
+There are more examples in the [library documentation](https://datatables.net/examples/index). If you have any questions, feel free to tweet to me or email me. I hope you found this useful.
