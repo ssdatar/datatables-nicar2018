@@ -131,7 +131,7 @@ Here are a few examples. The first one includes the complete code you can copy-p
 ```javascript
 $(document).ready(function(){
   var table = $('#my-table').DataTable();
-  table.page.len(10).draw();
+  table.page.len(13).draw();
 });
 ```
 
